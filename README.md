@@ -1,7 +1,7 @@
 - 👋 Hi, @ImTayeb
 - 👀 I’m interested in Learning new things everyday!
 - 🌱 I’m currently learning Coding and others. 
-- 📫 How to reach me? You say hi on Telegram @ImTayebOfficial
+- 📫 How to reach me? You can say hi on Telegram @ImTayebOfficial
 
 <!---
 ImTayeb/ImTayeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
